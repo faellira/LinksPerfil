@@ -20,4 +20,4 @@ o Intuito foi utilizar algumas coisas que sei para criar algo legal e interessan
 
 ## 🔖 Layout
 
-<img src="https://i.ibb.co/KFFLj1x/download.png">
+<img src="https://media.giphy.com/media/8VAtvUVLqzX793ta72/giphy.gif">
