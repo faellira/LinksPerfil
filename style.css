@@ -18,7 +18,7 @@ body{
 
 }
 img{
-    border-radius: 50%;
+    border-radius: 1rem;
 }
 .container{
     display: flex;
@@ -77,18 +77,23 @@ img{
     padding-top: 20px;
     color: rgba(0, 0, 0,);
     text-align: center;
-    font-style: italic;  
+    font-style: italic; 
+    box-shadow: 0 1px rgb(0, 0, 0); 
 }
 @keyframes buttons {
     0% {
-        width:0;
+        transform: scale(0.2);
     }
-
+    25%{
+        transform: scale(0.4);
+    }
+    50% {
+        transform: scale(0.6);
+    }
     75% {
-        width: 165px;
+        transform: scale(0.8);
     }
-
     100% {
-        width: 250px;
+        transform: scale(1);
     }
 }
